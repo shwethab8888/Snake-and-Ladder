@@ -10,7 +10,8 @@
             // PlayerRollsDie.PlayerRolls_Die();
             //NoPlay.No_Play();
             // WinningPosition.Winning_Position(); //exact winning position with 100
-            RepeatWinningPosition.RepeatWinning_Position();
+            //RepeatWinningPosition.RepeatWinning_Position();
+            NumberTimesDicePlayed.NumberTimes_DicePlayed();
 
         }
 
