@@ -11,8 +11,8 @@
             //NoPlay.No_Play();
             // WinningPosition.Winning_Position(); //exact winning position with 100
             //RepeatWinningPosition.RepeatWinning_Position();
-            NumberTimesDicePlayed.NumberTimes_DicePlayed();
-
+            //NumberTimesDicePlayed.NumberTimes_DicePlayed();
+            TwoPlayers.Two_Players();
         }
 
     }
