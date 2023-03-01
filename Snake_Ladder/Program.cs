@@ -7,7 +7,9 @@
 
             //Console.WriteLine("Welcome to Snake and Ladder");
             //SinglePlayer.Single_Player();
-            PlayerRollsDie.PlayerRolls_Die();
+            // PlayerRollsDie.PlayerRolls_Die();
+            NoPlay.No_Play();
+        
         }
 
     }
