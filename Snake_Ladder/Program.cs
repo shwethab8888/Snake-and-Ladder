@@ -6,8 +6,8 @@
         {
 
             //Console.WriteLine("Welcome to Snake and Ladder");
-            SinglePlayer.Single_Player();
-        
+            //SinglePlayer.Single_Player();
+            PlayerRollsDie.PlayerRolls_Die();
         }
 
     }
